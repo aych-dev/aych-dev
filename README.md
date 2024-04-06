@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Henry Dominguez</h1>
+<h1 align="center">Hi 👋, I'm Henry aka aychdev</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on [All You Can SOL](https://github.com/aych-dev/All-You-Can-SOL)
