@@ -12,7 +12,7 @@
 <a href="https://twitter.com/aychdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aychdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/henry-dominguez-856937260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henry-dominguez-856937260" height="30" width="40" /></a>
 <a href="https://instagram.com/aychlife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aychlife" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aychlife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aychlife" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aychlife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aychlife" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
