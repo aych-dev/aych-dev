@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [All You Can SOL](https://github.com/aych-dev/All-You-Can-SOL)
 
-- 👨‍💻 All of my projects are available at [aychdev.vercel.app/](https://aychdev.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aychdev.vercel.app)
 
 - 📫 How to reach me **henrydominguez.dev@gmail.com**
 
